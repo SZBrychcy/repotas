@@ -1,0 +1,99 @@
+#container
+{
+	width: 1600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#logo
+{
+	background-image: url(tlo.jpg);
+	text-align: left;
+	margin-top: 50px;
+	text-shadow: 20px red;
+	font-size: 50px;
+	font-weight: 700;
+	padding: 10px;	
+	font-family: Castellar;
+}
+
+#Tekst
+{
+	text-align: left;
+	font-size: 18px;
+	font-weight: 700;
+
+}
+
+#lewemenu
+{
+	background-image: url(ep_naturalblack);
+	float: left;
+	width: 200px;
+	min-height: 620px;
+	padding: 15px;
+	text-align: center;
+}
+
+#srodek
+{
+	background-image: url(brickwall.png);
+	float: left;
+	width: 998px;
+	padding: 20px;
+	min-height: 610px;
+	text-align: center;
+	border-color: red;
+	margin-top: 7px;
+	margin-bottom: 15px;
+	border-style: solid;	
+	overflow: scroll;
+	
+}
+
+#ad
+{
+	background-image: url(brickwall.png);
+	width: 290px;
+	min-height: 600px;
+	padding: 15px;
+	float: left;
+	text-align: center;
+	border-color: red;
+	margin-top: 7px;
+	border-style: solid;
+
+
+}
+
+#wyslij
+{
+	background-image: url(tlo.jpg);
+	float: right;
+	width: 320px;
+	text-align: center;
+	border-style: solid;
+	border-color: red;
+	height: 100px;
+	font-family: Castellar;
+	font-size: 20px;
+
+}
+#input
+{
+	background-image: url(tlo.jpg);
+	clear: both;
+	width: 1045px;
+	border-style: solid;
+	border-color: red;
+	height: 100px;
+	font-family: Castellar;
+	font-size: 30px;
+	font-weight: 700;
+
+}
+
+
+
+	
+
